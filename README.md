@@ -7,7 +7,7 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-red.svg)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 
-**A comprehensive collection of Jupyter notebooks for exploring Large Language Models (LLMs) with Google's Gemma models**
+**A comprehensive collection of Colab notebooks for exploring Large Language Models (LLMs) with Google's Gemma models**
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Harshalikadam02/huggingface-ai-colab-lab)
 
